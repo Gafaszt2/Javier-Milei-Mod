@@ -1,0 +1,29 @@
+[
+	{
+		"name": "Argentina",
+		"leaderName": "Javier Milei",
+		"adjective": ["Plotemaicio"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "El tema es que hablas, osea, de cosas que no sabes!",
+		"attacked": "Mira, estas muy equivocado.",
+		"defeated": "Al parecer yo no era digno para gobernar.",
+		"introduction": "Tiemblen Zurdos de ####!",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [161, 105, 250],
+		"innerColor": [38, 38, 38],
+		"uniqueName": "Viva la Libertad Carajo!",
+                "uniques": ["[+1 Gold] per [2] social policies adopted", "[+1 Production] from every [Bonus resource]"],
+                "cities": ["Buenos Aires","Cordoba","Rosario","La Plata","Tucuman","Salta","Mendoza","Vera Cruz","Corrientes","Pilar","Bahia Blanca",
+                            "Resistencia","Posadas","Jujuy","Parana","Merlo","Neuquen","Quilmes","Banfield","Formosa","Lanus",
+                            "La Rioja","Comodora","Rivadavia","San Luis","Ituzaingo","Santa fe","Rio Cuarto","San Rafael","Bariloche"],
+	},
+]

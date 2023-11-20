@@ -1,0 +1,13 @@
+[
+	{
+		"name": "Keynes Policies",
+                "replaces": "Bank",
+		"uniqueTo": "Argentina",
+		"gold": 4,
+		"specialistSlots": {"Merchant": 2},
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"gold": 25},
+		"requiredBuilding": "Market",
+		"requiredTech": "Banking"
+	},
+]

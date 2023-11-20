@@ -1,0 +1,13 @@
+[     
+ {
+		"name": "Juventud Rebelde",
+                "replaces": "Great Artist",
+		"uniqueTo": "Argentina",
+		"unitType": "Civilian",
+		"uniques": [
+            "Empire enters a [12]-turn Golden Age <by consuming this unit>",
+            "Can instantly construct a [Landmark] improvement <by consuming this unit>",
+            "Great Person - [Culture]", "Unbuildable", "Uncapturable"],
+		"movement": 4
+	},
+]
